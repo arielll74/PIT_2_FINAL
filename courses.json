@@ -1,0 +1,85 @@
+{
+    "subjects": [
+      {
+        "year": "1st Year",
+        "semester": "1st Semester",
+        "courses": [
+          "Introduction to Computing",
+          "Computer Programming 1",
+          "Purposive Communication",
+          "Readings in Philippine History",
+          "The Contemporary World",
+          "Mathematics in the Modern World",
+          "Movement Enhancement",
+          "ROTC/CWTS/LTS 1"
+        ]
+      },
+      {
+        "year": "1st Year",
+        "semester": "2nd Semester",
+        "courses": [
+          "Computer Programming 2",
+          "Data Structures and Algorithms",
+          "Discrete Mathematics",
+          "Art Appreciation",
+          "Understanding the Self",
+          "Fitness Activity and Exercises",
+          "ROTC/CWTS/LTS II",
+          "Science, Technology, and Society"
+        ]
+      },
+      {
+        "year": "2nd Year",
+        "semester": "1st Semester",
+        "courses": [
+          "Intro to Human Computer Interaction",
+          "Fundamentals of Database Systems",
+          "Platform Technologies",
+          "Object Oriented Programming",
+          "Accounting Principles",
+          "Physical Activity Towards Health and Fitness 1",
+          "Environmental Science"
+        ]
+      },
+      {
+        "year": "2nd Year",
+        "semester": "2nd Semester",
+        "courses": [
+          "Information Management",
+          "Networking 1",
+          "Web Systems and Technologies",
+          "Systems Integration and Architecture",
+          "Ethics",
+          "Life and Works of Rizal",
+          "Physical Activity Towards Health and Fitness 2"
+        ]
+      },
+      {
+        "year": "3rd Year",
+        "semester": "1st Semester",
+        "courses": [
+          "Information Assurance and Security",
+          "Networking 2",
+          "Mobile Programming",
+          "Software Engineering",
+          "IT Elective 1",
+          "Technopreneurship"
+        ]
+      },
+      {
+        "year": "3rd Year",
+        "semester": "2nd Semester",
+        "courses": [
+          "CAPSTONE Project and Research 1",
+          "Integrative Programming and Technologies",
+          "Applications Development and Emerging Technologies",
+          "Quantitative Methods",
+          "IT Elective 2",
+          "Philippine Indigenous Communities and Peace Education",
+          "Foreign Language"
+        ]
+      }
+    ]
+  }
+  
+  
